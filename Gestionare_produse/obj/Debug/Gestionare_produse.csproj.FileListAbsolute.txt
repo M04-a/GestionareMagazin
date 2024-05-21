@@ -1,0 +1,14 @@
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\bin\Debug\Gestionare_produse.exe.config
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\bin\Debug\Gestionare_produse.exe
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\bin\Debug\Gestionare_produse.pdb
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\obj\Debug\Gestionare_produse.csproj.AssemblyReference.cache
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\obj\Debug\Gestionare_produse.Autentificare.resources
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\obj\Debug\Gestionare_produse.Properties.Resources.resources
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\obj\Debug\Gestionare_produse.csproj.GenerateResource.cache
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\obj\Debug\Gestionare_produse.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\obj\Debug\Gestionare_produse.exe
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\obj\Debug\Gestionare_produse.pdb
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\obj\Debug\Gestionare_produse.Inregistrare.resources
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\obj\Debug\Gestionare_produse.FormaPrincipala.resources
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\obj\Debug\Gestionare_produse.AdaugareProdus.resources
+C:\Users\Dragos\visual\Gestionare_produse\Gestionare_produse\obj\Debug\Gestionare_produse.Stergere.resources
